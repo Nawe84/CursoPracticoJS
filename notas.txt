@@ -1,0 +1,9 @@
+vincular archivos html con los de js
+
+en el archivo html en la sección Script se agrega un argumento (src) para indicar que archivo va a tener el codigo de js
+ej
+
+<script src="./figuras.js">
+ </script>
+ 
+ el ./ indica que esta en la misma carpeta que el archivo .html
